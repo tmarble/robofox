@@ -4,7 +4,7 @@ A simple program to demonstrate [clj-webdriver](https://github.com/tmarble/clj-w
 
 ## Usage
 
-You can use robotux to find the github repositories by username
+You can use robofox to find the github repositories by username
 (or by organization).  For example
 
     lein run richhickey
@@ -15,7 +15,7 @@ Or
 
 ## Bugs
 
-Currently robotux only reports the first page of the repo listing.
+Currently robofox only reports the first page of the repo listing.
 
 ## Copyright and license
 
